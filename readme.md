@@ -1,0 +1,1 @@
+Basic github repo for meteo API project
